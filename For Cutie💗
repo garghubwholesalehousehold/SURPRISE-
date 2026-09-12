@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>For Maalkin 💗</title>
+<style>
+body{
+margin:0;min-height:100vh;display:flex;align-items:center;
+justify-content:center;text-align:center;
+font-family:Arial,sans-serif;
+background:linear-gradient(135deg,#fff0f6,#ffd6e5);
+color:#603344;padding:20px
+}
+.card{
+max-width:500px;padding:35px 25px;border-radius:30px;
+background:white;box-shadow:0 15px 50px #d99aaa55
+}
+h1{color:#d94d7b;font-size:42px}
+.heart{font-size:55px}
+button{
+background:#e65383;color:white;border:0;
+padding:16px 25px;border-radius:30px;
+font-size:17px;font-weight:bold
+}
+#surprise{
+display:none;margin-top:25px;padding:20px;
+background:#fff5f8;border-radius:20px;
+line-height:1.7;font-size:17px
+}
+</style>
+</head>
+
+<body>
+<div class="card">
+
+<div class="heart">🎀</div>
+
+<p>A tiny birthday surprise for</p>
+
+<h1>Maalkin 💗</h1>
+
+<p>Happy Birthday to someone who is simply <b>everything.</b> 🫶🏻</p>
+
+<button onclick="document.getElementById('surprise').style.display='block'">
+💌 Open your little surprise
+</button>
+
+<div id="surprise">
+🌷✨ <b>Your surprise</b> ✨🌷
+<br><br>
+
+I didn't need a big gift to tell you this. ❤️
+<br><br>
+
+I just wanted you to know that
+<b>everything about you</b> is special to me —
+your smile, your vibe, the way you talk,
+and all those little things you probably
+don't even notice. 💗
+<br><br>
+
+I hope your birthday gives you a hundred
+reasons to smile.
+<br><br>
+
+<strong>Stay exactly the way you are, Maalkin. 💗</strong>
+<br><br>
+
+— Bunny 🐰
+</div>
+
+</div>
+</body>
+</html>
